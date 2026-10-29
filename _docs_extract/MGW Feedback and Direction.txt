@@ -1,0 +1,60 @@
+MGW (Web-Builder): Feedback and Direction
+Responses to items 13 to 17, plus additional requests.
+1. Hero Banner
+Eyebrow (small text above): MGW · Medical Grade Website
+Headline: One website. Your entire practice.
+Subheadline: Replace the brochure site, the billing software and the patient files with one platform you own. Appointments, e-prescriptions, invoicing, patient portals and reports, all in one place.
+2. Colors
+Primary brand
+Orange: #F48120
+Green: #008C44
+Orange variants
+Dark: #D96B12
+Soft: #FFB06A
+Green / background variants
+Dark green: #006B34
+Deep green: #0A2417
+Mid green: #123528
+Ink (near-black): #05140E
+Light surfaces
+Mist: #E8F2EC
+Sand: #FFF7EF
+Body text: #F5FAF7 / white
+3. Official Name
+The official name is MGW, and the full form is Medical Grade Website.
+4. Feature List
+Please extract the features from the catalogue we shared. The Training Manual is not needed for this.
+5. Claims and Statistics
+Keep the "Live in 10 days" message, but remove the "free" part and reword it. Suggested options:
+Go live in 10 days, with setup handled by our team.
+From signup to a working practice website in 10 days.
+Your complete practice platform, live in 10 days.
+Remove "Limited onboarding slots".
+Remove "Hundreds of healthcare providers", as the claim is unclear.
+Research the statistics "7 in 10", "1 in 3" and "38%". The team should verify each one and send them back with proper sources.
+6. Modules and MGW Concept
+Highlight all the main MGW modules clearly on the page.
+Bring the MGW concept across. The current website does not yet explain what a Medical Grade Website is, so this needs to come through in the messaging and layout.
+7. Pricing
+Pricing is based on the variant, plus small usage-based charges.
+Category
+Deployment fee (setup)
+Annual fee (50% of setup)
+Doctor Variant (DV)
+PKR 20,000
+PKR 10,000
+Clinic Variant (CV)
+PKR 30,000
+PKR 15,000
+Hospital Variant (HV)
+PKR 50,000
+PKR 25,000
+Annual fee: 50% of the deployment fee.
+Per invoice: PKR 1.
+Per prescription: PKR 5.
+8. Call to Action: Become a Medical Grade Web Developer
+Add a CTA section on the page for people who want to join as MGW developers.
+Heading: Want to become a Medical Grade Web Developer?
+Short description (draft): A Medical Grade Web Developer builds, customises and deploys MGW for doctors, clinics and hospitals, helping healthcare practices move onto one secure platform they own. Join D-RIGHT and work on real healthcare websites from day one.
+Button: Apply Now
+Link: D-RIGHT careers page [URL to be added]. The form there collects the applicant&apos;s details and CV.

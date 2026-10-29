@@ -1,0 +1,45 @@
+User Activity & Analytics
+Chapter 8, The Fourth Class of Scoring Framework Parameters (SFPs), and the Close of This Training Series
+User Activity & Analytics is weighted at 10% in the SFP framework, and its stated rationale, administrative intelligence, describes what this class adds on top of every chapter before it: it turns the platform's daily activity into information the practice can act on. Security (Chapter 4) keeps that data safe, Content and UX/UI (Chapter 5) generate and present it, and this class is where it is finally counted, organized and reported back to the people running the practice.
+The Seven SFP Items in This Class
+#
+SFP Item
+What It Does
+1
+Visitor Activity Statistics
+Tracks website visitors and traffic patterns over time.
+2
+Patient Inquiry Tracking
+Monitors incoming patient inquiries and response times.
+3
+Appointment Activity Management
+Tracks appointment requests through to approval.
+4
+Registered Patient Records
+Maintains centralized, traceable patient accounts.
+5
+Doctor Availability Oversight
+Centralized view of doctor schedules and specialties.
+6
+Patient Feedback Management
+Captures and tracks patient feedback in a structured way.
+7
+Billing History
+Full record of invoicing and revenue by payment channel.
+Three Report Types, in Brief
+#
+Report Type
+What It Covers
+1
+Clinical Reports
+Patient and prescription activity, drawn from Registered Patient Records and the clinical module (Chapter 2).
+2
+Administrative Reports
+Traffic, appointments, doctor timings and feedback, the practice's day to day operational pulse.
+3
+Financial Reports
+Invoicing, collections and payment channel, built on Billing History and the invoicing engine (Chapter 2).
+Why This Class Depends on Everything Before It
+Analytics are only as reliable as the data behind them: visitor statistics depend on the UX/UI from Chapter 5, billing history depends on the security and access controls from Chapter 4, and patient and doctor records depend on the content and portal structures from Chapters 2 and 7. This is also, typically, the first thing missing from an individually built website, since a one time developer delivers a homepage, not a reporting layer.
+Closing the Training Series
+This chapter completes the series. Across eight chapters, this manual has shown that a medical-grade website is not a better website but a different category of product: secure and reliable at its foundation (Chapter 4), accurate and easy to use in its content and design (Chapter 5), active on the practice's behalf through communication and value added services (Chapter 6), fully usable through four role based portals (Chapter 7), and, with this chapter, self reporting across clinical, administrative and financial activity. Together, these seven Scoring Framework Parameter classes, introduced conceptually in Chapter 3 and grounded in the product and market context set out in Chapters 1 and 2, define what medical grade actually means, and why an MGW is positioned to change how healthcare is delivered digitally in Pakistan.

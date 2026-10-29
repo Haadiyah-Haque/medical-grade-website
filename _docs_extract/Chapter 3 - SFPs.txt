@@ -1,0 +1,45 @@
+Scoring Framework Parameters (SFPs)
+Chapter 3 — The Baseline Chapter: Understanding the Framework Before the Detail
+Chapters 1 and 2 introduced the medical-grade website (MGW) and the Scoring Framework Parameters (SFPs) that define it, in passing. Before going class by class from Chapter 4 onward, this chapter pauses on the framework itself why it exists, in what order it is best understood, what it protects when present, and what quietly breaks down when it is absent. It is the missing link between knowing that SFPs exist and actually using them to judge a website.
+Why SFPs Matter in Formulating an MGW
+An SFP is not a feature list written after the fact to describe a finished product rather it is the specification an MGW is built against from the start, split into structural SFPs (which components exist) and functional SFPs (how well they perform), grouped into seven weighted classes. That distinction matters because it turns "medical-grade" from a marketing adjective into something that can be checked, item by item, on any given website.
+It gives developers a fixed blueprint, so nothing critical (security, a portal, a reporting layer) is left to individual judgment or omitted under time pressure.
+It gives buyers, clinics and hospitals, an objective checklist to evaluate a vendor against, instead of relying on how polished a demo looks.
+It gives the platform a basis for weighted prioritization: not every class matters equally, and the framework says so explicitly (Security and Portals at 20% each, down to 10% for Analytics or Communication).
+It creates a shared vocabulary between the service provider, the clinic administrator and, indirectly, the patient experiencing the result, everyone is describing the same seven classes.
+The Sequence of Understanding Used in This Training Series
+The scoring sheet itself lists the seven classes in a scoring order, driven by weight and internal grouping. For learning purposes, this series deliberately follows a different, build-oriented sequence foundation first, then what the patient sees, then how that activity is measured, then how the platform actively operates, and finally how it all comes together in one system:
+Step
+Class (and Chapter)
+Why It Comes at This Point
+1
+Security, Reliability & Support (Chapter 4)
+The foundation. Nothing else on this list is trustworthy if the platform underneath it is not safe and reliable.
+2
+Content & Information Management + UX/UI (Chapter 5)
+What the patient actually sees and how easily they can use it, the first layer built on top of a secure foundation.
+3
+User Activity & Analytics (Chapter 6)
+Once content and interface exist, this is how their use gets measured and turned into management information.
+4
+Integrated Communication + Value-Added Services (Chapter 7)
+The platform moves from passive to active messaging, booking, billing and clinical tools that make it operational.
+5
+Integrated Portals Ecosystem (Chapter 8)
+The capstone where every class above is delivered to patients, doctors, admins and recruiters as one connected system.
+This is a sequence of understanding, not a claim that one class is unimportant relative to another the weights themselves are unchanged and are restated in full at the start of each chapter.
+The Advantages of Having SFPs
+Consistent baseline: every MGW deployment, regardless of the size of the clinic or hospital buying it, is built and graded against the same seven classes a solo practitioner's site is held to the same structural standard as a hospital's.
+Auditability: a website's medical-grade claim can be checked against the framework rather than taken on trust, the same way a certification checklist works in other industries.
+Buyer protection: a clinic evaluating vendors can ask "which SFP classes does this include?" instead of discovering gaps (no backups, no patient portal) only after going live.
+Continuous improvement: because scoring is repeatable, a platform can be re-assessed after an update and shown to have genuinely improved, not just changed.
+Shared due-diligence: procurement, security review and clinical sign-off can all reference the same framework instead of each side improvising its own criteria.
+What Happens in Its Absence
+The absence of a framework like this is not a neutral, minor gap it is the condition Chapter 1 described as the status quo for most of Pakistan's healthcare sector, and it produces predictable damage:
+"Website" means something different to every vendor and every buyer, so like-for-like comparison becomes impossible and price becomes the only visible variable.
+Low visibility but High-consequence categories including security, backups, role-based access, and integrated portals get silently skipped, because nothing in an unstructured build forces their inclusion.
+Individually-built websites (Chapter 1's freelance/regional tier) end up ad hoc almost by default: the buyer often does not know to ask for what an unscored build quietly leaves out.
+A "medical-grade" claim becomes unverifiable marketing language rather than a checkable standard, eroding trust in the category as a whole.
+At a sector level, the absence of a shared standard is exactly what keeps healthcare digitalization in Pakistan fragmented every clinic re-solves the same problem differently, with no common baseline to converge toward.
+Moving Forward
+With this baseline in place, Chapters 4 through 8 examine each SFP class in the sequence set out above Security, Reliability & Support first, through to the Integrated Portals Ecosystem as the capstone showing in detail what each class contains, why it is weighted as it is, and how it connects to everything else in the MGW model.
